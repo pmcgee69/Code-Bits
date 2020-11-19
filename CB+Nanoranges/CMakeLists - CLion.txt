@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.17)
+project(test1_ranges_for)
+
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_FLAGS_INIT "-Xclang -fexceptions -Xclang -fcxx-exceptions ")
+
+SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} ${CMAKE_CXX_FLAGS_INIT}")
+SET(CMAKE_EXE_LINKER_FLAGS  "${CMAKE_EXE_LINKER_FLAGS} ${CMAKE_CXX_FLAGS_INIT}")
+
+add_executable(test1_ranges_for main.cpp)
+

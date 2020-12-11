@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/12/10 17:11:58.657,=C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/10 17:11:58.838,=C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020/12/10 17:13:17.197,C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\C++\_test\_basics\knight's tour\Project1PCH1.h=C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/10 17:13:21.281,C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\C++\_test\_basics\knight's tour\Project1.cbproj=C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/12/10 17:14:04.687,=C:\Users\Perseus\Documents\Embarcadero\Studio\Projects\C++\_test\_basics\knight's tour\main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
